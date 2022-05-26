@@ -66,7 +66,7 @@ function MainContent() {
 function Footer() {
   return (
     <footer className='footer'>
-        <small>&Copyright. 2021 Zirol development. All rights reserved.</small>
+        <small>&Copyright. 2021 chima development. All rights reserved.</small>
       </footer>
   )
 }
