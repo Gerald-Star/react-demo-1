@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 // import './index.css';
 // import App from './App';
 import Menu from './App';
-// import Page from './App';
+
 
 // const page = ReactDOM.createRoot(document.getElementById('root'));
 // page.render(
@@ -19,6 +19,7 @@ home.render(
   <React.StrictMode>
     <Menu />
     {/* <img src="./logo192.png" alt=""/> */}
+  
   </React.StrictMode>
 )
 
